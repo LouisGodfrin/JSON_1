@@ -1,0 +1,30 @@
+{
+    "Roublard":
+    {
+        "PlayerClass":"Roublard",
+        "age":15,
+        "gender":"Male",
+        "HealPoint":65,
+        "Description": "A Roublard have the ability to kill other player by attaking the blind spot "
+    },
+
+    "Paladin":
+    {
+        "PlayerClass":"Paladin",
+        "age":52,
+        "gender":"Female",
+        "HealPoint":95,
+        "Description": "A paladin have the job to tank for other character"
+        
+    },
+
+    "Wise":
+    {
+        "PlayerClass":"Wase",
+        "age":80,
+        "gender":"Male",
+        "HealPoint":70,
+        "Description": "A Wase have the ability to use magic power to hit character in huge zone "
+    }
+
+}
