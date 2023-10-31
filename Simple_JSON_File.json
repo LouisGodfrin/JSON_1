@@ -1,5 +1,5 @@
 {
-    "Roublard":
+    "Thief":
     {
         "PlayerClass":"Roublard",
         "age":15,
@@ -20,11 +20,37 @@
 
     "Wise":
     {
-        "PlayerClass":"Wase",
+        "PlayerClass":"Wise",
         "age":80,
         "gender":"Male",
         "HealPoint":70,
         "Description": "A Wase have the ability to use magic power to hit character in huge zone "
+    }
+    "Monk":
+    {
+        "PlayerClass":"Monk",
+        "age":60,
+        "gender":"Female",
+        "HealPoint":65,
+        "Description": "A Monk have the ability to use this hand to hit his ennemy"
+    }
+    
+    "Druid":
+    {
+        "PlayerClass":"Druid",
+        "age":55,
+        "gender":"Male",
+        "HealPoint":100,
+        "Description": "A Druide know how to use the forest to take advantage against his ennemy"
+    }
+    
+    "Warrior":
+    {
+        "PlayerClass":"Warrior",
+        "age":30,
+        "gender":"Male",
+        "HealPoint":100,
+        "Description": "A Warrior fight barehand for merit and money "
     }
 
 }
