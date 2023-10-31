@@ -5,7 +5,8 @@
         "age":15,
         "gender":"Male",
         "HealPoint":65,
-        "Description": "A Roublard have the ability to kill other player by attaking the blind spot "
+        "Description": "A Roublard have the ability to kill other player by attaking the blind spot ",
+        "Image": "https://www.psdstack.com/wp-content/uploads/2019/08/copyright-free-images-750x420.jpg"
     },
 
     "Paladin":
@@ -14,8 +15,8 @@
         "age":52,
         "gender":"Female",
         "HealPoint":95,
-        "Description": "A paladin have the job to tank for other character"
-        
+        "Description": "A paladin have the job to tank for other character",
+        "Image": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2016/10/camera-photo-lens-stock-images.jpg"        
     },
 
     "Wise":
@@ -24,16 +25,19 @@
         "age":80,
         "gender":"Male",
         "HealPoint":70,
-        "Description": "A Wase have the ability to use magic power to hit character in huge zone "
-    }
+        "Description": "A Wase have the ability to use magic power to hit character in huge zone ",
+        "Image": "https://www.psdstack.com/wp-content/uploads/2019/08/copyright-free-images-750x420.jpg"
+    },
+    
     "Monk":
     {
         "PlayerClass":"Monk",
         "age":60,
         "gender":"Female",
         "HealPoint":65,
-        "Description": "A Monk have the ability to use this hand to hit his ennemy"
-    }
+        "Description": "A Monk have the ability to use this hand to hit his ennemy",
+        "Image": "https://i.pinimg.com/originals/5b/14/83/5b14839c627bb415f91e18b954f8a343.jpg"
+    },
     
     "Druid":
     {
@@ -41,8 +45,9 @@
         "age":55,
         "gender":"Male",
         "HealPoint":100,
-        "Description": "A Druide know how to use the forest to take advantage against his ennemy"
-    }
+        "Description": "A Druide know how to use the forest to take advantage against his ennemy",
+        "Image": "https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
     
     "Warrior":
     {
@@ -50,7 +55,8 @@
         "age":30,
         "gender":"Male",
         "HealPoint":100,
-        "Description": "A Warrior fight barehand for merit and money "
+        "Description": "A Warrior fight barehand for merit and money ",
+        "Image": "https://helios-i.mashable.com/imagery/articles/05rsoQBbohfI3dUO3Da6Ms4/hero-image.fill.size_1200x1200.v1623363292.jpg"
     }
 
 }
